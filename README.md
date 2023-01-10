@@ -1,2 +1,2 @@
 # Unicamp-MC833
-Projetos desenvolvidos para a matéria de Programação de Redes de Computadores.
+Projects developed for the Computer Network Programming course.
